@@ -23,3 +23,32 @@
 15:35:36.114 [TestNG-tests-1] INFO  testcase.TC3 - ****captured the count and displayed*****
 15:35:36.898 [TestNG-tests-1] INFO  testcase.TC3 - **** Took third testcase screenshot *****
 15:35:36.898 [TestNG-tests-1] INFO  testcase.TC3 - **** finished TC3  *****
+18:10:42.547 [main] INFO  testcase.TC3 - **** starting TC3  *****
+18:10:43.894 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
+18:10:45.266 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
+18:10:46.076 [main] INFO  testcase.TC3 - ****clicked on adults  *****
+18:10:49.494 [main] ERROR testcase.TC3 - test failed..
+18:13:19.231 [main] INFO  testcase.TC3 - **** starting TC3  *****
+18:13:20.565 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
+18:13:21.587 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
+18:13:22.057 [main] INFO  testcase.TC3 - ****clicked on adults  *****
+18:13:25.816 [main] ERROR testcase.TC3 - test failed..
+18:15:38.953 [main] INFO  testcase.TC3 - **** starting TC3  *****
+18:15:39.837 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
+18:15:46.745 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
+18:15:47.097 [main] INFO  testcase.TC3 - ****clicked on adults  *****
+18:15:50.861 [main] ERROR testcase.TC3 - test failed..
+18:20:42.951 [main] INFO  testcase.TC3 - **** starting TC3  *****
+18:20:44.124 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
+18:20:47.184 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
+18:20:47.557 [main] INFO  testcase.TC3 - ****clicked on adults  *****
+18:21:01.687 [main] INFO  testcase.TC3 - ****captured the count and displayed*****
+18:21:02.676 [main] INFO  testcase.TC3 - **** Took third testcase screenshot *****
+18:21:02.677 [main] INFO  testcase.TC3 - **** finished TC3  *****
+18:30:43.761 [main] INFO  testcase.TC3 - **** starting TC3  *****
+18:30:45.048 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
+18:30:46.539 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
+18:30:47.558 [main] INFO  testcase.TC3 - ****clicked on adults  *****
+18:30:59.120 [main] INFO  testcase.TC3 - ****captured the count and displayed*****
+18:31:00.027 [main] INFO  testcase.TC3 - **** Took third testcase screenshot *****
+18:31:00.027 [main] INFO  testcase.TC3 - **** finished TC3  *****

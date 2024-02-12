@@ -9,7 +9,7 @@
 		<parameter name="browser" value="chrome" />
 		<groups>
 			<run>
-				<include name="giftcards" />
+				<include name="hotels" />
 			</run>
 		</groups>
 		<classes>
