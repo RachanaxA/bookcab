@@ -1,0 +1,70 @@
+12:57:05.872 [main] INFO  testcase.TC1 - **** Took first testcase screenshot *****
+12:57:05.897 [main] INFO  testcase.TC1 - **** finished TC1  *****
+13:06:13.330 [main] INFO  testcase.TC1 - **** starting TC1 *****
+13:06:13.351 [main] INFO  testcase.TC1 - application logs started......
+13:06:14.342 [main] ERROR testcase.TC1 - test failed..
+13:06:48.802 [main] INFO  testcase.TC1 - **** starting TC1 *****
+13:06:48.817 [main] INFO  testcase.TC1 - application logs started......
+13:06:52.534 [main] INFO  testcase.TC1 - ****clicked on cabs  *****
+13:06:54.274 [main] INFO  testcase.TC1 - **** clicked on from   *****
+13:06:55.027 [main] INFO  testcase.TC1 - **** entered as Delhi  *****
+13:06:55.958 [main] INFO  testcase.TC1 - **** clicked Delhi *****
+13:06:56.929 [main] INFO  testcase.TC1 - **** entered as Manali,Himachal Pradesh  *****
+13:06:59.289 [main] INFO  testcase.TC1 - **** date selected  *****
+13:06:59.897 [main] INFO  testcase.TC1 - **** selected hour as 6  *****
+13:07:00.500 [main] INFO  testcase.TC1 - **** selected min as 30  *****
+13:07:01.062 [main] INFO  testcase.TC1 - **** selected AM  *****
+13:07:01.544 [main] INFO  testcase.TC1 - **** clicked on apply  *****
+13:07:06.224 [main] INFO  testcase.TC1 - **** clicked on search *****
+13:07:10.704 [main] INFO  testcase.TC1 - **** clicked on SUV  *****
+13:07:10.998 [main] INFO  testcase.TC1 - **** clicked on filters *****
+13:07:11.438 [main] INFO  testcase.TC1 - **** selected on lowest to highest *****
+13:07:11.691 [main] INFO  testcase.TC1 - **** carlist is displayed  *****
+13:07:14.999 [main] INFO  testcase.TC1 - **** lowest price is displayed *****
+13:07:15.504 [main] INFO  testcase.TC1 - **** Took first testcase screenshot *****
+13:07:15.505 [main] INFO  testcase.TC1 - **** finished TC1  *****
+13:10:17.040 [main] INFO  testcase.TC1 - **** starting TC1 *****
+13:10:17.053 [main] INFO  testcase.TC1 - application logs started......
+13:10:20.043 [main] INFO  testcase.TC1 - ****clicked on cabs  *****
+13:10:20.938 [main] INFO  testcase.TC1 - **** clicked on from   *****
+13:10:21.725 [main] INFO  testcase.TC1 - **** entered as Delhi  *****
+13:10:22.791 [main] INFO  testcase.TC1 - **** clicked Delhi *****
+13:10:23.792 [main] INFO  testcase.TC1 - **** entered as Manali,Himachal Pradesh  *****
+13:10:26.097 [main] INFO  testcase.TC1 - **** date selected  *****
+13:10:26.594 [main] INFO  testcase.TC1 - **** selected hour as 6  *****
+13:10:27.029 [main] INFO  testcase.TC1 - **** selected min as 30  *****
+13:10:27.404 [main] INFO  testcase.TC1 - **** selected AM  *****
+13:10:27.739 [main] INFO  testcase.TC1 - **** clicked on apply  *****
+13:10:31.944 [main] INFO  testcase.TC1 - **** clicked on search *****
+13:10:34.050 [main] INFO  testcase.TC1 - **** clicked on SUV  *****
+13:10:34.427 [main] INFO  testcase.TC1 - **** clicked on filters *****
+13:10:34.976 [main] INFO  testcase.TC1 - **** selected on lowest to highest *****
+13:10:35.210 [main] INFO  testcase.TC1 - **** carlist is displayed  *****
+13:10:40.466 [main] INFO  testcase.TC1 - **** lowest price is displayed *****
+13:10:41.179 [main] INFO  testcase.TC1 - **** Took first testcase screenshot *****
+13:10:41.179 [main] INFO  testcase.TC1 - **** finished TC1  *****
+13:10:44.257 [main] INFO  testcase.TC1 - **** starting TC1 *****
+13:10:44.277 [main] INFO  testcase.TC1 - application logs started......
+13:10:47.646 [main] INFO  testcase.TC1 - ****clicked on cabs  *****
+13:10:48.333 [main] INFO  testcase.TC1 - **** clicked on from   *****
+13:10:49.137 [main] INFO  testcase.TC1 - **** entered as Delhi  *****
+13:10:50.215 [main] INFO  testcase.TC1 - **** clicked Delhi *****
+13:10:50.946 [main] INFO  testcase.TC1 - **** entered as Manali,Himachal Pradesh  *****
+13:10:53.357 [main] INFO  testcase.TC1 - **** date selected  *****
+13:10:54.080 [main] INFO  testcase.TC1 - **** selected hour as 6  *****
+13:10:54.863 [main] INFO  testcase.TC1 - **** selected min as 30  *****
+13:10:55.434 [main] INFO  testcase.TC1 - **** selected AM  *****
+13:10:55.917 [main] INFO  testcase.TC1 - **** clicked on apply  *****
+13:11:00.877 [main] INFO  testcase.TC1 - **** clicked on search *****
+13:11:02.645 [main] INFO  testcase.TC1 - **** clicked on SUV  *****
+13:11:02.875 [main] INFO  testcase.TC1 - **** clicked on filters *****
+13:11:03.231 [main] INFO  testcase.TC1 - **** selected on lowest to highest *****
+13:11:03.368 [main] INFO  testcase.TC1 - **** carlist is displayed  *****
+13:11:06.044 [main] INFO  testcase.TC1 - **** lowest price is displayed *****
+13:11:06.564 [main] INFO  testcase.TC1 - **** Took first testcase screenshot *****
+13:11:06.565 [main] INFO  testcase.TC1 - **** finished TC1  *****
+21:45:25.493 [main] INFO  testcase.TC1 - **** starting TC1 *****
+21:45:25.519 [main] INFO  testcase.TC1 - application logs started......
+21:45:28.129 [main] INFO  testcase.TC1 - ****clicked on cabs  *****
+21:45:28.829 [main] INFO  testcase.TC1 - **** clicked on from   *****
+21:45:29.631 [main] INFO  testcase.TC1 - **** entered as Delhi  *****

@@ -1,0 +1,69 @@
+16:56:41.039 [main] INFO  testcase.TC1 - **** selected hour as 6  *****
+16:56:41.434 [main] INFO  testcase.TC1 - **** selected min as 30  *****
+16:56:41.718 [main] INFO  testcase.TC1 - **** selected AM  *****
+16:56:41.977 [main] INFO  testcase.TC1 - **** clicked on apply  *****
+16:56:45.844 [main] INFO  testcase.TC1 - **** clicked on search *****
+16:56:47.432 [main] INFO  testcase.TC1 - **** clicked on SUV  *****
+16:56:47.627 [main] INFO  testcase.TC1 - **** clicked on filters *****
+16:56:47.893 [main] INFO  testcase.TC1 - **** selected on lowest to highest *****
+16:56:48.076 [main] INFO  testcase.TC1 - **** carlist is displayed  *****
+16:56:48.626 [main] ERROR testcase.TC1 - test failed..
+17:01:26.909 [main] INFO  testcase.TC1 - **** starting TC1 *****
+17:01:26.917 [main] INFO  testcase.TC1 - application logs started......
+17:01:28.056 [main] INFO  testcase.TC1 - ****clicked on cabs  *****
+17:01:28.810 [main] INFO  testcase.TC1 - **** clicked on from   *****
+17:01:29.364 [main] INFO  testcase.TC1 - **** entered as Delhi  *****
+17:01:29.958 [main] INFO  testcase.TC1 - **** clicked Delhi *****
+17:01:30.699 [main] INFO  testcase.TC1 - **** entered as Manali,Himachal Pradesh  *****
+17:01:32.892 [main] INFO  testcase.TC1 - **** date selected  *****
+17:01:33.247 [main] INFO  testcase.TC1 - **** selected hour as 6  *****
+17:01:33.512 [main] INFO  testcase.TC1 - **** selected min as 30  *****
+17:01:33.734 [main] INFO  testcase.TC1 - **** selected AM  *****
+17:01:33.967 [main] INFO  testcase.TC1 - **** clicked on apply  *****
+17:01:37.746 [main] INFO  testcase.TC1 - **** clicked on search *****
+17:01:40.897 [main] INFO  testcase.TC1 - **** clicked on SUV  *****
+17:01:41.197 [main] INFO  testcase.TC1 - **** clicked on filters *****
+17:01:41.490 [main] INFO  testcase.TC1 - **** selected on lowest to highest *****
+17:01:41.657 [main] INFO  testcase.TC1 - **** carlist is displayed  *****
+17:01:44.355 [main] INFO  testcase.TC1 - **** lowest price is displayed *****
+17:01:44.842 [main] INFO  testcase.TC1 - **** Took first testcase screenshot *****
+17:01:44.842 [main] INFO  testcase.TC1 - **** finished TC1  *****
+17:04:02.885 [main] INFO  testcase.TC1 - **** starting TC1 *****
+17:04:02.900 [main] INFO  testcase.TC1 - application logs started......
+17:04:04.030 [main] INFO  testcase.TC1 - ****clicked on cabs  *****
+17:04:04.642 [main] INFO  testcase.TC1 - **** clicked on from   *****
+17:04:05.324 [main] INFO  testcase.TC1 - **** entered as Delhi  *****
+17:04:05.930 [main] INFO  testcase.TC1 - **** clicked Delhi *****
+17:04:06.841 [main] INFO  testcase.TC1 - **** entered as Manali,Himachal Pradesh  *****
+17:04:09.024 [main] INFO  testcase.TC1 - **** date selected  *****
+17:04:09.462 [main] INFO  testcase.TC1 - **** selected hour as 6  *****
+17:04:09.912 [main] INFO  testcase.TC1 - **** selected min as 30  *****
+17:04:10.370 [main] INFO  testcase.TC1 - **** selected AM  *****
+17:04:10.765 [main] INFO  testcase.TC1 - **** clicked on apply  *****
+17:04:16.466 [main] INFO  testcase.TC1 - **** clicked on search *****
+17:04:19.741 [main] INFO  testcase.TC1 - **** clicked on SUV  *****
+17:04:20.318 [main] INFO  testcase.TC1 - **** clicked on filters *****
+17:04:20.688 [main] INFO  testcase.TC1 - **** selected on lowest to highest *****
+17:04:20.894 [main] INFO  testcase.TC1 - **** carlist is displayed  *****
+17:04:24.103 [main] INFO  testcase.TC1 - **** lowest price is displayed *****
+17:04:24.525 [main] INFO  testcase.TC1 - **** Took first testcase screenshot *****
+17:04:24.526 [main] INFO  testcase.TC1 - **** finished TC1  *****
+18:08:15.336 [main] INFO  testcase.TC1 - **** starting TC1 *****
+18:08:15.396 [main] INFO  testcase.TC1 - application logs started......
+18:08:16.727 [main] INFO  testcase.TC1 - ****clicked on cabs  *****
+18:08:25.717 [main] INFO  testcase.TC1 - **** clicked on from   *****
+18:08:26.402 [main] INFO  testcase.TC1 - **** entered as Delhi  *****
+18:08:27.197 [main] INFO  testcase.TC1 - **** clicked Delhi *****
+18:08:28.467 [main] INFO  testcase.TC1 - **** entered as Manali,Himachal Pradesh  *****
+18:08:30.814 [main] INFO  testcase.TC1 - **** date selected  *****
+18:08:31.366 [main] INFO  testcase.TC1 - **** selected hour as 6  *****
+18:08:31.998 [main] INFO  testcase.TC1 - **** selected min as 30  *****
+18:08:32.302 [main] INFO  testcase.TC1 - **** selected AM  *****
+18:08:32.627 [main] INFO  testcase.TC1 - **** clicked on apply  *****
+18:08:42.118 [main] INFO  testcase.TC1 - **** clicked on search *****
+18:08:45.751 [main] INFO  testcase.TC1 - **** clicked on SUV  *****
+18:08:46.012 [main] INFO  testcase.TC1 - **** clicked on filters *****
+18:08:46.460 [main] INFO  testcase.TC1 - **** selected on lowest to highest *****
+18:08:46.678 [main] INFO  testcase.TC1 - **** carlist is displayed  *****
+18:08:50.538 [main] INFO  testcase.TC1 - **** lowest price is displayed *****
+18:08:51.117 [main] INFO  testcase.TC1 - **** Took first testcase screenshot *****

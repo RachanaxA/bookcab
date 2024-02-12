@@ -1,0 +1,68 @@
+10:20:25.856 [main] INFO  testcase.TC2 - **** random sender name is entered *****
+10:20:26.409 [main] INFO  testcase.TC2 - **** random phone number is entered *****
+10:20:26.812 [main] INFO  testcase.TC2 - **** random email is entered  *****
+10:20:27.637 [main] ERROR testcase.TC2 - test failed..
+10:21:03.382 [main] INFO  testcase.TC3 - **** starting TC3  *****
+10:21:04.738 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
+10:21:05.959 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
+10:21:06.382 [main] INFO  testcase.TC3 - ****clicked on adults  *****
+10:21:07.248 [main] ERROR testcase.TC3 - test failed..
+10:25:12.650 [main] INFO  testcase.TC1 - **** starting TC1 *****
+10:25:12.668 [main] INFO  testcase.TC1 - application logs started......
+10:25:13.893 [main] INFO  testcase.TC1 - ****clicked on cabs  *****
+10:25:15.451 [main] INFO  testcase.TC1 - **** clicked on from   *****
+10:25:16.397 [main] INFO  testcase.TC1 - **** entered as Delhi  *****
+10:25:18.836 [main] INFO  testcase.TC1 - **** clicked Delhi *****
+10:25:20.151 [main] INFO  testcase.TC1 - **** entered as Manali,Himachal Pradesh  *****
+10:25:22.545 [main] INFO  testcase.TC1 - **** date selected  *****
+10:25:23.146 [main] INFO  testcase.TC1 - **** selected hour as 6  *****
+10:25:23.630 [main] INFO  testcase.TC1 - **** selected min as 30  *****
+10:25:23.964 [main] INFO  testcase.TC1 - **** selected AM  *****
+10:25:24.436 [main] INFO  testcase.TC1 - **** clicked on apply  *****
+10:25:29.106 [main] INFO  testcase.TC1 - **** clicked on search *****
+10:25:32.257 [main] INFO  testcase.TC1 - **** clicked on SUV  *****
+10:25:32.579 [main] INFO  testcase.TC1 - **** clicked on filters *****
+10:25:32.925 [main] INFO  testcase.TC1 - **** selected on lowest to highest *****
+10:25:33.135 [main] INFO  testcase.TC1 - **** carlist is displayed  *****
+10:25:37.412 [main] INFO  testcase.TC1 - **** lowest price is displayed *****
+10:25:37.987 [main] INFO  testcase.TC1 - **** Took first testcase screenshot *****
+10:25:37.993 [main] INFO  testcase.TC1 - **** finished TC1  *****
+10:26:22.471 [main] INFO  testcase.TC2 - **** starting TC2  *****
+10:26:34.685 [main] INFO  testcase.TC2 - ****clicked on giftcards  *****
+10:26:35.124 [main] INFO  testcase.TC2 - **** random sender name is entered *****
+10:26:35.828 [main] INFO  testcase.TC2 - **** random phone number is entered *****
+10:26:36.333 [main] INFO  testcase.TC2 - **** random email is entered  *****
+10:26:38.770 [main] INFO  testcase.TC2 - **** clicked on buynow and captured error msg *****
+10:26:39.276 [main] INFO  testcase.TC2 - **** Took second testcase screenshot *****
+10:26:39.277 [main] INFO  testcase.TC2 - **** finished TC2  *****
+10:27:18.025 [main] INFO  testcase.TC3 - **** starting TC3  *****
+10:27:19.433 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
+10:27:20.818 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
+10:27:21.481 [main] INFO  testcase.TC3 - ****clicked on adults  *****
+10:27:29.207 [main] INFO  testcase.TC3 - ****captured the count and displayed*****
+10:27:30.085 [main] INFO  testcase.TC3 - **** Took third testcase screenshot *****
+10:27:30.086 [main] INFO  testcase.TC3 - **** finished TC3  *****
+14:58:05.044 [main] INFO  testcase.TC3 - **** starting TC3  *****
+14:58:06.379 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
+14:58:07.474 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
+14:58:08.161 [main] INFO  testcase.TC3 - ****clicked on adults  *****
+14:58:15.354 [main] INFO  testcase.TC3 - ****captured the count and displayed*****
+14:58:15.996 [main] INFO  testcase.TC3 - **** Took third testcase screenshot *****
+14:58:15.996 [main] INFO  testcase.TC3 - **** finished TC3  *****
+14:59:52.390 [main] INFO  testcase.TC1 - **** starting TC1 *****
+14:59:52.430 [main] INFO  testcase.TC1 - application logs started......
+14:59:53.700 [main] INFO  testcase.TC1 - ****clicked on cabs  *****
+14:59:55.476 [main] INFO  testcase.TC1 - **** clicked on from   *****
+14:59:56.925 [main] INFO  testcase.TC1 - **** entered as Delhi  *****
+14:59:58.223 [main] INFO  testcase.TC1 - **** clicked Delhi *****
+15:00:00.117 [main] INFO  testcase.TC1 - **** entered as Manali,Himachal Pradesh  *****
+15:00:02.855 [main] INFO  testcase.TC1 - **** date selected  *****
+15:00:04.132 [main] INFO  testcase.TC1 - **** selected hour as 6  *****
+15:00:04.543 [main] INFO  testcase.TC1 - **** selected min as 30  *****
+15:00:05.000 [main] INFO  testcase.TC1 - **** selected AM  *****
+15:00:05.807 [main] INFO  testcase.TC1 - **** clicked on apply  *****
+15:00:14.605 [main] INFO  testcase.TC1 - **** clicked on search *****
+15:00:15.423 [main] INFO  testcase.TC1 - **** clicked on SUV  *****
+15:00:16.008 [main] INFO  testcase.TC1 - **** clicked on filters *****
+15:00:20.024 [main] INFO  testcase.TC1 - **** selected on lowest to highest *****
+15:00:21.689 [main] INFO  testcase.TC1 - **** carlist is displayed  *****

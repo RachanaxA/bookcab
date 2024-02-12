@@ -1,0 +1,25 @@
+15:00:26.228 [main] INFO  testcase.TC1 - **** lowest price is displayed *****
+15:00:27.402 [main] INFO  testcase.TC1 - **** Took first testcase screenshot *****
+15:00:27.402 [main] INFO  testcase.TC1 - **** finished TC1  *****
+15:01:21.124 [main] INFO  testcase.TC2 - **** starting TC2  *****
+15:01:33.600 [main] INFO  testcase.TC2 - ****clicked on giftcards  *****
+15:01:34.101 [main] INFO  testcase.TC2 - **** random sender name is entered *****
+15:01:34.661 [main] INFO  testcase.TC2 - **** random phone number is entered *****
+15:01:35.135 [main] INFO  testcase.TC2 - **** random email is entered  *****
+15:01:36.674 [main] INFO  testcase.TC2 - **** clicked on buynow and captured error msg *****
+15:01:37.190 [main] INFO  testcase.TC2 - **** Took second testcase screenshot *****
+15:01:37.191 [main] INFO  testcase.TC2 - **** finished TC2  *****
+15:02:26.466 [main] INFO  testcase.TC3 - **** starting TC3  *****
+15:02:27.817 [main] INFO  testcase.TC3 - ****clicked on Hotels  *****
+15:02:30.906 [main] INFO  testcase.TC3 - ****clicked on guests and rooms *****
+15:02:32.017 [main] INFO  testcase.TC3 - ****clicked on adults  *****
+15:02:39.256 [main] INFO  testcase.TC3 - ****captured the count and displayed*****
+15:02:40.088 [main] INFO  testcase.TC3 - **** Took third testcase screenshot *****
+15:02:40.088 [main] INFO  testcase.TC3 - **** finished TC3  *****
+15:35:24.454 [TestNG-tests-1] INFO  testcase.TC3 - **** starting TC3  *****
+15:35:25.622 [TestNG-tests-1] INFO  testcase.TC3 - ****clicked on Hotels  *****
+15:35:27.117 [TestNG-tests-1] INFO  testcase.TC3 - ****clicked on guests and rooms *****
+15:35:27.780 [TestNG-tests-1] INFO  testcase.TC3 - ****clicked on adults  *****
+15:35:36.114 [TestNG-tests-1] INFO  testcase.TC3 - ****captured the count and displayed*****
+15:35:36.898 [TestNG-tests-1] INFO  testcase.TC3 - **** Took third testcase screenshot *****
+15:35:36.898 [TestNG-tests-1] INFO  testcase.TC3 - **** finished TC3  *****
