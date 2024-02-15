@@ -114,7 +114,7 @@ public class baseclass {
 
 	}
 
-	@AfterClass(groups = { "cabs", "giftscards", "hotels" })
+	@AfterClass(groups = { "cabs", "giftcards", "hotels" })
 	public void teardown() throws InterruptedException {
 		Thread.sleep(10000);
 		driver.quit();
